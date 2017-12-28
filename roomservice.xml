@@ -12,5 +12,6 @@
   <project path="vendor/pantech" name="KaoTD/android_vendor_pantech" remote="github" revision="cm-14.1" />
 
   <project path="device/qcom/common" name="LineageOS/android_device_qcom_common" remote="github" revision="cm-14.1" />
-  <project path="prebuilts/gcx/linux-x86/arm/linaro_arm-linux-androideabi-4.9" name="KaoTD/linaro_arm-linux-androideabi-4.9" remote="github" revision="cm-14.1" />
+  <project path="prebuilts/gcc/linux-x86/arm/uber-arm-eabi-4.9" name="KaoTD/linaro-arm-eabi-4.9" remote="github" revision="cm-14.1" />
+  <project path="prebuilts/gcc/linux-x86/arm/arm-eabi-4.7" name="KaoTD/arm-eabi-4.7" remote="github" revision="master" /> 
 </manifest>
