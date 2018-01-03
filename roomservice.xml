@@ -1,17 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest> 
+<!--
   <project path="device/pantech/ef56" name="KaoTD/android_device_pantech_ef56" remote="github" revision="cm-14.1" />
-  <project path="device/pantech/ef59" name="KaoTD/android_device_pantech_ef59" remote="github" revision="cm-14.1" />
   <project path="device/pantech/ef60" name="KaoTD/android_device_pantech_ef60" remote="github" revision="cm-14.1" />
   <project path="device/pantech/ef63" name="KaoTD/android_device_pantech_ef63" remote="github" revision="cm-14.1" />
+-->
 
+  <project path="device/pantech/ef59" name="KaoTD/android_device_pantech_ef59" remote="github" revision="cm-14.1" />
   <project path="device/pantech/msm8974-common" name="KaoTD/device_pantech_msm8974-common" remote="github" revision="cm-14.1" />
-
-  <project path="kernel/pantech/msm8974" name="KaoTD/kd_kernel_msm8974" remote="github" revision="cm-14.1" />
-
+  <project path="kernel/pantech/msm8974" name="KaoTD/kd_kernel_msm8974" remote="github" revision="cm-14.1_4.7" />
   <project path="vendor/pantech" name="KaoTD/android_vendor_pantech" remote="github" revision="cm-14.1" />
 
   <project path="device/qcom/common" name="LineageOS/android_device_qcom_common" remote="github" revision="cm-14.1" />
+<!--
   <project path="prebuilts/gcc/linux-x86/arm/uber-arm-eabi-4.9" name="KaoTD/linaro-arm-eabi-4.9" remote="github" revision="cm-14.1" />
-  <project path="prebuilts/gcc/linux-x86/arm/arm-eabi-4.7" name="KaoTD/arm-eabi-4.7" remote="github" revision="master" /> 
+-->
+  <project path="prebuilts/gcc/linux-x86/arm/arm-eabi-4.7" name="platform/prebuilts/gcc/linux-x86/arm/arm-eabi-4.7" remote="aosp" revision="master" /> 
 </manifest>
