@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest> 
+  <project path="device/sharp/pa23" name="KaoTD/android_device_sharp_pa23" remote="github" revision="hex-7.1" />
+  <project path="kernel/sharp/msm8974" name="KaoTD/android_kernel_sharp_msm8974" revision="mkn-mr1" />
+  <project path="vendor/sharp/pa23" name="KaoTD/android_vendor_sharp_pa23" remote="github" revision="mkn-mr1" />
+  <project path="hardware/qcom/msm8x74" name="platform/hardware/qcom/msm8x74" remote="aosp" revision="master" />
+</manifest>
