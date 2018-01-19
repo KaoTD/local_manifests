@@ -16,6 +16,6 @@
   <project path="packages/resources/devicesettings" name="LineageOS/android_packages_resources_devicesettings" remote="github" revision="cm-14.1" />
 <!--
   <project path="prebuilts/gcc/linux-x86/arm/uber-arm-eabi-4.9" name="KaoTD/uber_arm-eabi-4.9-cortex-a15" remote="github" revision="master" />
-  <project path="prebuilts/gcc/linux-x86/arm/arm-eabi-4.7" name="platform/prebuilts/gcc/linux-x86/arm/arm-eabi-4.7" remote="aosp" revision="master" /> 
 -->
+  <project path="prebuilts/gcc/linux-x86/arm/arm-eabi-4.7" name="platform/prebuilts/gcc/linux-x86/arm/arm-eabi-4.7" remote="aosp" revision="master" /> 
 </manifest>
